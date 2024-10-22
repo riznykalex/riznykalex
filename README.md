@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @riznykalex
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning React-Redux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me m.office@ukr.net
 
 <!---
 riznykalex/riznykalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
